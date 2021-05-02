@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:taller_custom/models/Character.dart';
-import 'package:taller_custom/widgets/image_status.dart';
+import 'package:flutter_custom/widgets/image_status.dart';
 
 class Main extends StatefulWidget {
   var characters = [];
